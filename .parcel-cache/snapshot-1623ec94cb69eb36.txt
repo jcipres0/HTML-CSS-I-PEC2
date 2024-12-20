@@ -1,4 +1,4 @@
-14624
+14630
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\resolver\other_path\lib\other-lib.js133791138224341215 0
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133791138213872048 0
 78C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\is-number-object\.eslintrc133791138194685418 0
@@ -27,13 +27,13 @@
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2018\ToInt16.js133791138274754181 0
 81C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\cosmiconfig\dist\merge.js.map133791138218279264 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2018\IsStringPrefix.js133791138255482797 0
-43C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist133791574616473493 1
+43C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist133791581833505953 1
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2021\IsUnclampedIntegerElementType.js133791138255702996 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\types\LICENSE133791138192907897 0
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\supports-color\package.json133791138192477885 0
 95C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2020\CreateListFromArrayLike.js133791138238187455 0
 108C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helpers\lib\helpers\defineEnumerableProperties.js133791138227227574 0
-56C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\babel.config.json133751872335089792 0
+56C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\babel.config.json133791578676215381 0
 68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\type-fest\source133791138219356300 1
 104C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\markdown-ansi\node_modules\has-flag\index.js133791138196592443 0
 82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\operations\2017.js133791138204438025 0
@@ -182,7 +182,7 @@
 98C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2020\tables\typed-array-objects.js133791138279013404 0
 102C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-transform-object-rest-spread\LICENSE133791138192977855 0
 63C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\safe-buffer133791138199137189 1
-52C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\src\index.pug133775456833948100 0
+52C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\src\index.pug133791581408244312 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\is-promise\readme.md133791138199196628 0
 80C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2019\IsRegExp.js133791138254972776 0
 68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\autoprefixer\bin133791138192787944 1
@@ -191,6 +191,7 @@
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\npm-run-all\bin\npm-run-all\help.js133791138203905592 0
 98C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\wrap-ansi-cjs\node_modules\color-name\index.js133791138194995161 0
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\BigInt\lessThan.js133791138258086259 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.1bd787ef.js.map133791581833475937 0
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\graph\src\BitSet.js133791138205014986 0
 53C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\src\mapkick.js133740889219954494 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2018\CharacterRange.js133791138233350758 0
@@ -217,7 +218,7 @@
 82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2023\TimeString.js133791138273350163 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2022\DayFromYear.js133791138240554075 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\escape-string-regexp133791138197324162 1
-66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-51.0a88fb00.jpg133791574610392434 0
+66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-51.0a88fb00.jpg133791581831218780 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\msgpackr\SECURITY.md133791138221973061 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\cross-spawn\index.js133791138196432423 0
 59C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\src\img\anabarca.jpg133749525164322884 0
@@ -1030,7 +1031,7 @@
 105C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin\svgo.ps1133791138284304066 0
 92C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\string-width-cjs\node_modules\ansi-regex133791138199060519 1
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\lib\parser\parse-selector.js133791138233290751 0
-70C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\taller-papel.2b5cff7d.webp133791574600985587 0
+70C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\taller-papel.2b5cff7d.webp133791581808582733 0
 85C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\emoji-regex\es2015\RGI_Emoji.d.ts133791138206196444 0
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\audio-api.js133791138219695507 0
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2023\IteratorComplete.js133791138256832814 0
@@ -1244,7 +1245,7 @@
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\internal-slot\test\index.js133791138201598824 0
 63C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\has-bigints133791138204095614 1
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2018\abs.js133791138214061952 0
-69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-51-1.62701e07.webp133791574610114505 0
+69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-51-1.62701e07.webp133791581831012613 0
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\node-addon-api\napi-inl.deprecated.h133791138202233977 0
 93C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\GetIteratorFromMethod.js133791138245697478 0
 81C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\svgo\plugins\convertColors.js133791138221203717 0
@@ -1739,11 +1740,11 @@
 98C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\resolver\symlinked\_\node_modules133791138217048007 1
 61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\type-fest133791138208681628 1
 68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\async.js133791138206537397 0
-67C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-51.f9bb5d85.webp133791574600975576 0
+67C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-51.f9bb5d85.webp133791581808572721 0
 73C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\rust\index.js133791138198620560 0
 92C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2018\ToPropertyDescriptor.js133791138276835645 0
 111C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Script_Extensions\Linear_A.js133791138231173902 0
-79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-4-presenta-1.9ca05893.webp133791574601055591 0
+79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-4-presenta-1.9ca05893.webp133791581808652703 0
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helpers\lib\helpers\arrayWithoutHoles.js133791138217187769 0
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133791138223196494 0
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\reporter-tracer\src133791138196772546 1
@@ -2160,7 +2161,7 @@
 107C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Script_Extensions\Ahom.js133791138197024723 0
 97C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\parcel\node_modules\supports-color\browser.js133791138195005925 0
 106C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\wrap-ansi-cjs\node_modules\emoji-regex\es2015\index.js133791138203164539 0
-77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-presenta-2.3b7b9da6.webp133791574600995596 0
+77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-presenta-2.3b7b9da6.webp133791581808602710 0
 92C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\htmlnano\lib\modules\removeUnusedCss.mjs133791138226116246 0
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\strip-ansi-cjs\package.json133791138196262442 0
 97C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\wrap-ansi-cjs\node_modules\color-name\LICENSE133791138196533160 0
@@ -2178,7 +2179,7 @@
 111C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\resolver\multirepo\packages\package-b\index.js133791138222215765 0
 98C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Script\Yezidi.js133791138241057535 0
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\lib\generator\token-before.js133791138234469157 0
-66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.19effecb.css.map133791574616463500 0
+66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.19effecb.css.map133791581833475937 0
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\plugin\package.json133791138198751141 0
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\wrap-ansi-cjs\node_modules\ansi-styles\index.d.ts133791138200048529 0
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\module_dir133791138222855799 1
@@ -2223,7 +2224,7 @@
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\js-yaml\lib\type\seq.js133791138215570085 0
 82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2022\IsLessThan.js133791138254122773 0
 74C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\wrap-ansi\node_modules133791138173289547 1
-69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\sentidosx600.586abafc.svg133791574612137640 0
+69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\sentidosx600.586abafc.svg133791581832790989 0
 117C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json133791138232094880 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\is-boolean-object\.github\FUNDING.yml133791138205755828 0
 96C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\wrap-ansi\node_modules\ansi-styles\readme.md133791138198055129 0
@@ -2507,7 +2508,7 @@
 71C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\shell-quote\example133791138207040534 1
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Script\Braille.js133791138218449433 0
 74C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\util-deprecate\node.js133791138199116626 0
-68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-2-1.ce012b4a.webp133791574600915955 0
+68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-2-1.ce012b4a.webp133791581808543510 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\type-fest\ts41\pascal-case.d.ts133791138215470093 0
 105C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Script_Extensions\Yi.js133791138241087550 0
 110C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\CreateNonEnumerableDataPropertyOrThrow.js133791138238833046 0
@@ -2914,6 +2915,7 @@
 76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\token-stream\.travis.yml133791138201006205 0
 84C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2022\Number\index.js133791138249214790 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\object-keys\index.js133791138202626965 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.89c3b9df.js.map133791581833475937 0
 125C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare\index.js133791138218652900 0
 113C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\package-manager\node_modules\semver\ranges\outside.js133791138216588878 0
 80C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\dotdot\index.js133791138219034541 0
@@ -3013,7 +3015,7 @@
 84C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\cjs\tokenizer\names.cjs133791138225065448 0
 68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\svgo\lib\xast.js133791138218128553 0
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\svgo\plugins\convertStyleToAttrs.js133791138221933076 0
-77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-presenta-1.9ccd11b7.webp133791574610204505 0
+77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-presenta-1.9ccd11b7.webp133791581831012613 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\internal-slot\.nycrc133791138196372430 0
 80C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\svgo\plugins\inlineStyles.js133791138222175774 0
 74C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\htmlnano\.eslintignore133791138192698372 0
@@ -3265,7 +3267,7 @@
 115C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\preset-modules\src\plugins\transform-jsx-spread\index.js133791138212591585 0
 95C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@jridgewell\set-array\dist\set-array.umd.js133791138195306200 0
 105C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\string-width-cjs\node_modules\ansi-regex\package.json133791138196552463 0
-74C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-presenta.4dd72030.jpg133791574610402950 0
+74C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-presenta.4dd72030.jpg133791581831222563 0
 97C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Script\Bamum.js133791138212390255 0
 80C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\string.prototype.trim\.nycrc133791138196262442 0
 81C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\string.prototype.trim\auto.js133791138199136694 0
@@ -3928,7 +3930,7 @@
 114C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Script\Inscriptional_Parthian.js133791138229547109 0
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-define-property\index.js133791138197853603 0
 110C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Binary_Property\Hex_Digit.js133791138228838252 0
-76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-3-presenta.e41bb360.jpg133791574610402950 0
+76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-3-presenta.e41bb360.jpg133791581831232608 0
 81C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\rimraf\dist\esm\path-arg.d.ts133791138227207012 0
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-syntax-import-assertions\lib\index.js133791138196893681 0
 96C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2019\IntegerIndexedElementSet.js133791138250216162 0
@@ -4205,7 +4207,7 @@
 111C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\General_Category\Surrogate.js133791138238531570 0
 77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\node_path.js133791138223891898 0
 84C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2020\BigInt\equal.js133791138243203233 0
-62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\01-1.ab63ae9a.webp133791574614147759 0
+62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\01-1.ab63ae9a.webp133791581825201680 0
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\pathfilter133791138223036576 1
 94C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133791138242601743 0
 78C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\pathfilter.js133791138224462536 0
@@ -4268,7 +4270,7 @@
 97C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2020\BigInt\unsignedRightShift.js133791138280234160 0
 80C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\logger\lib\Logger.js133791138195286156 0
 82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\resolver\quux\foo133791138222356465 1
-61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.8605d291.js133791574616353703 0
+61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.8605d291.js133791581833366871 0
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\resolve\test\resolver\quux\foo\index.js133791138222375214 0
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@swc\helpers\_\_is_native_function\package.json133791138225845586 0
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\parcel\node_modules\has-flag\index.d.ts133791138195015073 0
@@ -4538,7 +4540,7 @@
 104C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\node_modules\css-tree\lib\syntax\node\Number.js133791138232539117 0
 109C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Script_Extensions\Hebrew.js133791138228728421 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerator-transform\lib\hoist.js133791138200641734 0
-59C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\categorias.html133791574616353703 0
+59C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\categorias.html133791581833365924 0
 71C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\template\lib133791138209283271 1
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerator-transform\lib\index.js133791138203209735 0
 81C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\glob\dist\esm\ignore.d.ts.map133791138216898007 0
@@ -4791,7 +4793,7 @@
 113C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\index.js133791138197204065 0
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\es6-class.js133791138237170279 0
 100C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\Script\Duployan.js133791138225474536 0
-66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\anabarca.466ecdfa.webp133791574600985587 0
+66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\anabarca.466ecdfa.webp133791581808582733 0
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2022\CloneArrayBuffer.js133791138234143074 0
 73C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\cjs\data.cjs133791138216828009 0
 70C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\boolbase\README.md133791138194765566 0
@@ -4988,6 +4990,7 @@
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\generic-names\.idea\vcs.xml133791138208175531 0
 67C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\lmdb\index.d.ts133791138229246697 0
 119C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133791138233200748 0
+61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.89c3b9df.js133791581833366871 0
 119C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\General_Category\Other_Punctuation.js133791138236196474 0
 121C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\regenerate-unicode-properties\General_Category\Paragraph_Separator.js133791138236438273 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\dom-serializer\lib\esm\index.js133791138199256628 0
@@ -5299,7 +5302,7 @@
 82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\object-inspect\test\inspect.js133791138212380240 0
 81C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\promise\setimmediate\index.js133791138219074540 0
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\promise\setimmediate\node-extensions.js133791138219246289 0
-66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\motoretro.b86c54fd.jpg133791574614030044 0
+66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\motoretro.b86c54fd.jpg133791581824810200 0
 94C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\promise\setimmediate\rejection-tracking.js133791138219416619 0
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\promise\setimmediate\synchronous.js133791138219586921 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\cosmiconfig\dist\readFile.d.ts.map133791138218529352 0
@@ -5875,7 +5878,7 @@
 85C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\htmlparser2\lib\WritableStream.js133791138202463981 0
 124C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node133791138219995537 0
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\parcel\node_modules\chalk\package.json133791138200505479 0
-69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\taller-papel.99988c24.jpg133791574610402950 0
+69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\taller-papel.99988c24.jpg133791581831222563 0
 81C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\nanoid\url-alphabet\index.cjs133791138203221343 0
 93C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\parcel\node_modules\chalk\source\index.js133791138195346147 0
 71C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\cosmiconfig\LICENSE133791138192737884 0
@@ -5916,7 +5919,7 @@
 97C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-select\node_modules\domutils\lib\index.js133791138203584094 0
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\package-json-from-dist\dist\commonjs\package.json133791138198258120 0
 78C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\ordered-binary\.nyc_output133791138204085619 1
-77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-presenta-600.242d0442.webp133791574600985587 0
+77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-presenta-600.242d0442.webp133791581808592939 0
 80C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\object.assign\test\native.js133791138206426800 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\cjs\syntax\node\Brackets.cjs133791138205905692 0
 104C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@swc\helpers\_\_class_private_field_set\package.json133791138220621970 0
@@ -6534,7 +6537,6 @@
 71C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\lmdb\dict\dict2.txt133791138229327118 0
 107C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\parser133791138227227574 1
 71C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\cssesc\package.json133791138192737884 0
-61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.5d5c488f.js133791574616353703 0
 82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\lmdb\dependencies\lmdb-data-v1133791138192627973 1
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\helpers\isFinite.js133791138253485958 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\lmdb\dependencies\v8133791138227628007 1
@@ -6812,7 +6814,7 @@
 71C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\isexe\test\basic.js133791138203905592 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\template\lib\populate.js133791138208005275 0
 68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\isarray\index.js133791138194675085 0
-65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-2.91ed58ec.jpg133791574614030044 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-2.91ed58ec.jpg133791581824800211 0
 69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\isarray\README.md133791138197785393 0
 123C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\node-resolver-core\node_modules\semver\ranges\min-satisfying.js133791138215350096 0
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2019\FlattenIntoArray.js133791138244244941 0
@@ -7006,7 +7008,6 @@
 70C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@swc\types\LICENSE133791138192797907 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\is-arrayish\index.js133791138199226631 0
 71C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\is-arrayish\LICENSE133791138197823785 0
-65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.98aa53d5.js.map133791574616463500 0
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-posthtml\LICENSE133791138192817918 0
 77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\is-array-buffer\.eslintrc133791138192658284 0
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\is-array-buffer\.github133791138205477234 1
@@ -7385,9 +7386,9 @@
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\get-intrinsic\.eslintrc133791138192687992 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\ArraySetLength.js133791138226366209 0
 78C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\get-intrinsic\CHANGELOG.md133791138203233646 0
-74C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\cartel-de-entrada.8fdeadbd.svg133791574615516877 0
+74C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\cartel-de-entrada.8fdeadbd.svg133791581826947414 0
 74C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\get-intrinsic\index.js133791138200204236 0
-79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-3-presenta-2.04853b8d.webp133791574600995596 0
+79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-3-presenta-2.04853b8d.webp133791581808592939 0
 78C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\get-intrinsic\package.json133791138202010944 0
 124C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.schema.json133791138207371531 0
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\get-intrinsic\README.md133791138204105630 0
@@ -7661,7 +7662,7 @@
 93C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\import-maps.js133791138241257215 0
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-object-atoms\ToObject.js133791138201640028 0
 81C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-object-atoms\tsconfig.json133791138203715511 0
-62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\02-1.e2b85d4c.webp133791574614147759 0
+62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\02-1.e2b85d4c.webp133791581825190189 0
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-object-atoms\.github\FUNDING.yml133791138207190415 0
 71C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-errors\eval.d.ts133791138207600002 0
 72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-errors\index.d.ts133791138208066037 0
@@ -7951,7 +7952,7 @@
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\GetPromiseResolve.js133791138246569776 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\colr-v1.js133791138226866591 0
 94C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2017\ObjectDefineProperties.js133791138261880652 0
-72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\taller-papel-1.95e1ac0d.webp133791574610073149 0
+72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\taller-papel-1.95e1ac0d.webp133791581831002605 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\GetStringIndex.js133791138246900339 0
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@jridgewell\sourcemap-codec\dist\types\strings.d.ts133791138206076381 0
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\GetSubstitution.js133791138247190291 0
@@ -8102,7 +8103,7 @@
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2020\SameValueNonNumeric.js133791138266670754 0
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133791138195246167 0
 84C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\TimeFromYear.js133791138273199185 0
-68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\anabarca-1.adef4bdc.webp133791574610124493 0
+68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\anabarca-1.adef4bdc.webp133791581831022591 0
 82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\TimeString.js133791138273370137 0
 80C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2024\ToBigInt.js133791138273862930 0
 105C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\markdown-ansi\node_modules\color-name\LICENSE133791138196602553 0
@@ -8370,7 +8371,7 @@
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2023\tables133791138279073325 1
 93C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\types\lib\converters\toKeyAlias.js133791138224755152 0
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2023\TestIntegrityLevel.js133791138271608232 0
-56C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\eventos.html133791574616353703 0
+56C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\eventos.html133791581833366871 0
 107C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-transform-numeric-separator\tsconfig.json133791138201771297 0
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2023\thisBigIntValue.js133791138271698220 0
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2023\thisBooleanValue.js133791138271858216 0
@@ -8591,7 +8592,7 @@
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2022\SpeciesConstructor.js133791138269587488 0
 74C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\core\lib\errors133791138223608209 1
 106C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2021\ApplyStringOrNumericBinaryOperator.js133791138224361210 0
-68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-2-2.8ed3ece0.webp133791574600975576 0
+68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-2-2.8ed3ece0.webp133791581808572721 0
 84C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2022\StringCreate.js133791138270158910 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\packager-wasm\package.json133791138203002019 0
 92C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2022\StringGetOwnProperty.js133791138270377616 0
@@ -8834,7 +8835,7 @@
 85C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2021\TimeWithinDay.js133791138273501525 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2021\TimeZoneString.js133791138273672940 0
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2019\IsConcatSpreadable.js133791138252280577 0
-60C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\02.2ff7f3cd.webp133791574614117681 0
+60C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\02.2ff7f3cd.webp133791581825090197 0
 80C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2021\ToBigInt.js133791138273793184 0
 102C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-transform-parameters\lib\rest.js.map133791138204297542 0
 82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2021\ToBigInt64.js133791138273913582 0
@@ -9181,7 +9182,7 @@
 85C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2016\IsPropertyKey.js133791138254742805 0
 104C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\core\lib\parser\util\missing-plugin-helper.js133791138225015504 0
 85C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2019\SameValueZero.js133791138266900762 0
-62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\enate.6a08bf7d.jpg133791574614030044 0
+62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\enate.6a08bf7d.jpg133791581824810200 0
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2019\Set.js133791138267514450 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\es-abstract\2019\SetIntegrityLevel.js133791138268324500 0
 113C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\node_modules\css-tree\lib\definition-syntax\tokenizer.js133791138234127824 0
@@ -9944,6 +9945,7 @@
 107C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\node_modules\css-tree\lib\syntax\scope\selector.js133791138233460758 0
 104C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\node_modules\css-tree\lib\syntax\node\Atrule.js133791138228238142 0
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\node_modules\css-tree\lib\syntax\node\Block.js133791138228478432 0
+68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\presentacion.8b2c13f0.js133791581833366871 0
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-transform-arrow-functions\README.md133791138194965084 0
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\node_modules\css-tree\lib\syntax\node\CDC.js133791138228579096 0
 111C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\node_modules\css-tree\lib\syntax\node\ClassSelector.js133791138228788263 0
@@ -10129,7 +10131,7 @@
 95C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\lib\restructure\prepare\specificity.js133791138225115454 0
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-select\node_modules\domhandler\lib133791138208648605 1
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\lib\replace\atrule133791138224589262 1
-57C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\historia.html133791574616353703 0
+57C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\historia.html133791581833366871 0
 77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\lib\replace\index.js133791138224311260 0
 77C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\lib\replace\property133791138224005294 1
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\csso\lib\replace\Url.js133791138225337406 0
@@ -10251,7 +10253,7 @@
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\lib\generator\sourceMap.js133791138234053571 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\lib\lexer\structure.js133791138234211273 0
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\lib\lexer\units.js133791138234890039 0
-59C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\02.94d3f32a.jpg133791574614050047 0
+59C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\02.94d3f32a.jpg133791581825010926 0
 84C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\lib\generator\create.js133791138229427133 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\regions\FR.js133791138238953066 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\lib\Transformation.js133791138229887106 0
@@ -10337,7 +10339,7 @@
 98C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\cjs\syntax\config\parser-selector.cjs133791138225945562 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\cjs\syntax\config\parser.cjs133791138226006200 0
 92C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\cjs\syntax\atrule\font-face.cjs133791138220199302 0
-65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\anabarca.e4147025.jpg133791574610411758 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\anabarca.e4147025.jpg133791581831222563 0
 94C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helper-validator-identifier\LICENSE133791138193025111 0
 93C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helpers\lib\helpers\toPrimitive.js133791138231984895 0
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-tree\cjs\syntax\atrule\supports.cjs133791138227247004 0
@@ -10379,7 +10381,7 @@
 95C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-transform-arrow-functions\lib133791138198015317 1
 97C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-select\node_modules\entities\package.json133791138213050981 0
 93C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\cross-spawn\node_modules\semver\README.md133791138202877754 0
-76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-4-presenta.84782c7a.jpg133791574614040046 0
+76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-4-presenta.84782c7a.jpg133791581824810200 0
 114C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-select\node_modules\entities\lib\decode_codepoint.d.ts.map133791138213512611 0
 100C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\css-select\node_modules\entities\lib\encode.d.ts133791138222875797 0
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\traverse\lib\path\lib\removal-hooks.js.map133791138219546625 0
@@ -10793,7 +10795,7 @@
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\regions\SO.js133791138249385070 0
 98C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\runtime\helpers\esm\asyncToGenerator.js133791572578179600 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\regions\TD.js133791138250116149 0
-59C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\03.99ad84a6.jpg133791574614040046 0
+59C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\03.99ad84a6.jpg133791581825020192 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\regions\TK.js133791138250576159 0
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\arraybuffer.prototype.slice\shim.js133791138205507245 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\regions\TL.js133791138250607634 0
@@ -10848,7 +10850,7 @@
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\brotli.js133791138224371663 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\calc.js133791138225314652 0
 97C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\canvas-blending.js133791138225404564 0
-60C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\03.bcb1e6c6.webp133791574614127686 0
+60C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\03.bcb1e6c6.webp133791581825090197 0
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\canvas.js133791138225554531 0
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133791138226006200 0
 98C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\childnode-remove.js133791138226136200 0
@@ -10924,7 +10926,7 @@
 104C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133791138231284297 0
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\css-media-scripting.js133791138231355420 0
 98C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\css-mixblendmode.js133791138231504302 0
-54C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.html133791574616353703 0
+54C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.html133791581833355929 0
 93C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\css-nesting.js133791138231684663 0
 98C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\css-nth-child-of.js133791138231793059 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\workers\test\cpuCount.test.js133791138209230413 0
@@ -11185,9 +11187,10 @@
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\shadowdom.js133791138249134623 0
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133791138249184529 0
 85C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\sni.js133791138249355118 0
+61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.1bd787ef.js133791581833366871 0
 100C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\speech-recognition.js133791138249435661 0
 105C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\stricttransportsecurity.js133791138249685645 0
-73C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-presenta.c4cdd3f7.webp133791574610144477 0
+73C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-presenta.c4cdd3f7.webp133791581831052601 0
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\bin\svgo133791138195368165 0
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\subresource-integrity.js133791138249745658 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\caniuse-lite\data\features\svg-css.js133791138249805653 0
@@ -11771,6 +11774,7 @@
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@swc\helpers\esm\_async_iterator.js133791138235332678 0
 100C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-transform-modules-commonjs\LICENSE133791138192985069 0
 94C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@swc\helpers\esm\_await_async_generator.js133791138235402591 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.1d2a82bd.js.map133791581833475937 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@swc\helpers\esm\_call_super.js133791138235482572 0
 102C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@swc\helpers\esm\_class_apply_descriptor_update.js133791138235653669 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@swc\helpers\esm\_class_call_check.js133791138235703658 0
@@ -12196,7 +12200,7 @@
 104C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-svg\node_modules\.bin\semver.ps1133791138284314048 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-svg\lib\inline.js133791138198991721 0
 97C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js133791138203483370 0
-66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-2.d29d18f9.webp133791574610063166 0
+66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-2.d29d18f9.webp133791581830992584 0
 84C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-sass\LICENSE133791138192807901 0
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-sass\lib\SassTransformer.js133791138195228034 0
 67C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\traverse133791138223158296 1
@@ -12294,6 +12298,7 @@
 116C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\neq.js133791138216270095 0
 123C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\generator\sourceMap.js133791138227408043 0
 123C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\prerelease.js133791138218028564 0
+72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\presentacion.8b2c13f0.js.map133791581833475937 0
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-transform-reserved-words\package.json133791138199958512 0
 100C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\node_modules\semver\ranges\valid.js133791138220701950 0
 121C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\rcompare.js133791138218622945 0
@@ -12443,7 +12448,7 @@
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\test\fixtures\main-format-mismatch133791138232328991 1
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-babel\src\flow.js133791138206990543 0
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-babel\src\jsx.js133791138207873977 0
-62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\03-1.c12e3552.webp133791574614147759 0
+62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\03-1.c12e3552.webp133791581825201680 0
 102C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133791138208723589 0
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-babel\src\utils.js133791138212310251 0
 95C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\transformer-babel\node_modules\.bin133791138284033385 1
@@ -13361,7 +13366,7 @@
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\src\summarizeRequest.js133791138229167646 0
 89C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\src\SymbolPropagation.js133791138229276713 0
 95C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\src\TargetDescriptor.schema.js133791138229617102 0
-62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.19effecb.css133791574616353703 0
+62C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.19effecb.css133791581833366871 0
 86C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\src\Transformation.js133791138229937131 0
 88C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\src\UncommittedAsset.js133791138230147106 0
 113C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-bugfix-v8-static-class-fields-redefine-readonly133791138202837746 1
@@ -13400,7 +13405,7 @@
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\node_modules\semver\functions\rsort.js133791138219114550 0
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helper-validator-option\lib\validator.js.map133791138204026400 0
 106C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\node_modules\semver\classes\comparator.js133791138202193970 0
-59C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\01.58704a43.jpg133791574614040046 0
+59C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\01.58704a43.jpg133791581825020192 0
 101C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\node_modules\semver\classes\range.js133791138218419446 0
 93C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@parcel\core\node_modules\.bin\semver.cmd133791138284304066 0
 113C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-transform-modules-systemjs\tsconfig.tsbuildinfo133791138204479015 0
@@ -13585,7 +13590,7 @@
 76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@lezer\lr\dist\index.cjs133791138196806046 0
 78C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@lezer\lr\dist\index.d.cts133791138198790780 0
 75C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@lezer\lr\dist\index.js133791138203035971 0
-60C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\01.d13f92f4.webp133791574614117681 0
+60C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\01.d13f92f4.webp133791581825090197 0
 73C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@lezer\common\LICENSE133791138192897910 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@ampproject\remapping\README.md133791138202867794 0
 82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@lezer\common\dist\index.d.cts133791138199347416 0
@@ -13607,7 +13612,7 @@
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@jridgewell\sourcemap-codec\dist\types133791138206510743 1
 111C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts133791138205539844 0
 81C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@jridgewell\set-array\LICENSE133791138192897910 0
-79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-2-presenta-1.a453331f.webp133791574600995596 0
+79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-2-presenta-1.a453331f.webp133791581808592939 0
 114C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\plugin-transform-export-namespace-from\lib\index.js.map133791138198489337 0
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@jridgewell\set-array\README.md133791138202096359 0
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@jridgewell\set-array\dist\set-array.umd.js.map133791138200405381 0
@@ -13848,7 +13853,7 @@
 76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\runtime\README.md133791572576944145 0
 78C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\runtime\regenerator133791572580206809 1
 99C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\runtime\node_modules\regenerator-runtime133791572580540768 1
-76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-2-presenta.e3d5eb03.jpg133791574614040046 0
+76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-2-presenta.e3d5eb03.jpg133791581824820223 0
 107C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\runtime\node_modules\regenerator-runtime\LICENSE133791138193175265 0
 112C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\runtime\node_modules\regenerator-runtime\package.json133791138198620560 0
 107C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\runtime\node_modules\regenerator-runtime\path.js133791138195095113 0
@@ -14281,7 +14286,9 @@
 106C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helpers\lib\helpers\classPrivateFieldGet.js.map133791138223405434 0
 63C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\.bin\cssesc133791138284345130 0
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helpers\lib\helpers\classPrivateFieldGet2.js133791138223506129 0
+61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.41ab2e93.js133791581833366871 0
 108C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helpers\lib\helpers\classPrivateFieldLooseBase.js133791138223815608 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.41ab2e93.js.map133791581833455952 0
 112C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helpers\lib\helpers\classPrivateFieldLooseBase.js.map133791138223931529 0
 103C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helpers\lib\helpers\classPrivateFieldSet2.js133791138224361210 0
 100C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\helpers\lib\helpers\classPrivateGetter.js133791138224566740 0
@@ -14500,7 +14507,7 @@
 79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\core\lib\parser\util133791138225055491 1
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\core\lib\gensync-utils\async.js133791138223778549 0
 94C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\core\lib\gensync-utils\async.js.map133791138223891898 0
-79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-5-presenta-1.56722d7c.webp133791574610134482 0
+79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-5-presenta-1.56722d7c.webp133791581831022591 0
 87C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\core\lib\gensync-utils\fs.js133791138223982151 0
 91C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\core\lib\gensync-utils\fs.js.map133791138224080555 0
 90C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\@babel\core\lib\errors\config-error.js133791138223375435 0
@@ -14593,33 +14600,32 @@
 83C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\.bin\update-browserslist-db.cmd133791138284375135 0
 66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\.bin\which.cmd133791138284375135 0
 66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\node_modules\.bin\which.ps1133791138284375135 0
-65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\enate-1.97bdde7b.webp133791574600985587 0
-63C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\enate.f17ffb72.webp133791574610073149 0
-56C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\enlaces.html133791574616353703 0
-68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\eventosx600.7dff19e0.svg133791574612137640 0
-79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-2-presenta-2.8f5ccec0.webp133791574610084395 0
-79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-3-presenta-1.334ec0d6.webp133791574610124493 0
-79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-4-presenta-2.6a492631.webp133791574610194526 0
-79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-5-presenta-2.88151dcf.webp133791574600995596 0
-76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-5-presenta.b5a1e8c1.jpg133791574610402950 0
-69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\historiax600.0660613b.svg133791574612137640 0
-65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.5d5c488f.js.map133791574616463500 0
-65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.8605d291.js.map133791574616463500 0
-61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.98aa53d5.js133791574616353703 0
-66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\instagram.b1db25d6.svg133791574612137640 0
-65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\montanas.0ba5bfec.svg133791574612137640 0
-69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\motoretro-1.2edd05a3.webp133791574600985587 0
-67C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\motoretro.05ddbe7c.webp133791574610073149 0
-68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-3-1.484945ee.webp133791574610114505 0
-68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-3-2.3383d063.webp133791574600985587 0
-65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-3.799d36a5.jpg133791574610402950 0
-69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-51-2.3db75269.webp133791574600975576 0
-68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-6-1.2f870cf9.webp133791574610114505 0
-68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-6-2.6c68cfcc.webp133791574600975576 0
-65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-6.990e2121.jpg133791574610392434 0
-72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-presenta.990d54e6.jpg133791574614030044 0
-82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito_logo1-transparente.7a841047.svg133791574615527442 0
-61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\presentacion.html133791574616353703 0
-57C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\sentidos.html133791574616353703 0
-58C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\X.143e480f.svg133791574615516877 0
-64C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\youtube.b75c3407.svg133791574615516877 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\enate-1.97bdde7b.webp133791581808582733 0
+63C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\enate.f17ffb72.webp133791581830992584 0
+56C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\enlaces.html133791581833355929 0
+68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\eventosx600.7dff19e0.svg133791581832790989 0
+79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-2-presenta-2.8f5ccec0.webp133791581831002605 0
+79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-3-presenta-1.334ec0d6.webp133791581831022591 0
+79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-4-presenta-2.6a492631.webp133791581831012613 0
+79C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-5-presenta-2.88151dcf.webp133791581808592939 0
+76C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\foto-mia-5-presenta.b5a1e8c1.jpg133791581831222563 0
+69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\historiax600.0660613b.svg133791581832790989 0
+61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.1d2a82bd.js133791581833366871 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\index.8605d291.js.map133791581833475937 0
+66C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\instagram.b1db25d6.svg133791581832790989 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\montanas.0ba5bfec.svg133791581832790989 0
+69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\motoretro-1.2edd05a3.webp133791581808582733 0
+67C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\motoretro.05ddbe7c.webp133791581831002605 0
+68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-3-1.484945ee.webp133791581831012613 0
+68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-3-2.3383d063.webp133791581808572721 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-3.799d36a5.jpg133791581831232608 0
+69C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-51-2.3db75269.webp133791581808572721 0
+68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-6-1.2f870cf9.webp133791581831012613 0
+68C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-6-2.6c68cfcc.webp133791581808592707 0
+65C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-6.990e2121.jpg133791581831222563 0
+72C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito-presenta.990d54e6.jpg133791581824810200 0
+82C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\nocito_logo1-transparente.7a841047.svg133791581826947414 0
+61C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\presentacion.html133791581833355929 0
+57C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\sentidos.html133791581833366424 0
+58C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\X.143e480f.svg133791581826947414 0
+64C:\MASTER\HTML-CSS2\PEC2\jcipres0_PEC2\dist\youtube.b75c3407.svg133791581826947414 0

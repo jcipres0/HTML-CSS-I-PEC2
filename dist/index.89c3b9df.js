@@ -1,0 +1,2 @@
+const e=document.querySelector("#id-nav"),i=document.querySelector("#abrir"),c=document.querySelector("#cerrar"),r=document.querySelector("#id-nav1"),s=document.querySelector("#abrir1"),t=document.querySelector("#cerrar1");i.addEventListener("click",()=>{e.classList.add("visible")}),c.addEventListener("click",()=>{e.classList.remove("visible")}),s.addEventListener("click",()=>{r.classList.add("visible"),s.classList.add("novisible")}),t.addEventListener("click",()=>{r.classList.remove("visible"),s.classList.remove("novisible")});
+//# sourceMappingURL=index.89c3b9df.js.map
