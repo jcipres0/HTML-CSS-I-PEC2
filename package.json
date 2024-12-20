@@ -38,5 +38,8 @@
     "pug": "^3.0.3",
     "rimraf": "^5.0.10",
     "sass": "^1.80.3"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.26.0"
   }
 }
